@@ -1,9 +1,14 @@
 # jupyter-notebooks
 
 Megasena.ipynb usa tensorflow_intel-2.10.0;
+
 Megasena2.ipynb usa tensorflow_intel-2.10.0;
+
 Megasena-pytorch.ipynb usa pytorch;
+
 codet5p-770m-py.ipynb usa pytorch e transformers==4.21.3;
+
+
 
 
 
